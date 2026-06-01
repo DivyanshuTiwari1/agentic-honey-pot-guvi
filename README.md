@@ -67,4 +67,4 @@ Phase 8A: Scam Intelligence Extraction & Aggregation
 - Phone numbers are extracted before bank accounts to avoid misclassification
 - Numeric values already identified as phone numbers are explicitly excluded from bank account detection
 - All extracted entities are deduplicated
-- Keywords are matched using a curated scam vocabulary set
+- Keywords are matched using a curated scam vocabulary set.
